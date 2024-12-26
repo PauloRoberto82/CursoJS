@@ -1,7 +1,7 @@
 // 3 TIPOS DE DECLARAR FUNÇÕEES NO JAVASCRIPT
 
 function teste () {
-    console.log('Função declarada')
+    console.log('Função declarada (função padrão)')
     } teste()
 
 const teste2 = () => {
